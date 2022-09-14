@@ -1,1 +1,1 @@
-Solutions to Tasks on Functions and nested loops
+Solutions to debugging tasks
