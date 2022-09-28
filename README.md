@@ -1,1 +1,1 @@
-Solutions to debugging tasks
+Solution to task on Arrays & Pointers
